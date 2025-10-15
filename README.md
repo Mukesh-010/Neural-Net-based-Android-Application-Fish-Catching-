@@ -1,4 +1,4 @@
-# Neural-Net-based-Android-Application-Fish-Catching-
+# Neural Net based Android Application for Real-Time Fish Catch Identification, Health, and Volume Estimation
 
 The Application Neural Net based Android Application for Real-Time Fish Catch Identification, Health, and Volume Estimation is used to develop an offline-capable Android application that allows fishermen, inspectors, or buyers to point their phone camera at the catch in maritime domain and instantly:
 1.Identify fish species present (from a set of known species)
